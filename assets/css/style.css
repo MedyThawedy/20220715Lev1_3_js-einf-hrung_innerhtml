@@ -1,0 +1,11 @@
+#gallery {
+
+    display: flex;
+
+}
+
+#gallery>figure img {
+
+    height: 50vh;
+
+}
